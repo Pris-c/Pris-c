@@ -13,7 +13,7 @@ To achive that goal, I have been studing backends technologies, focused in java 
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,angular,github,maven,html,css,spring,typescript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,angular,github,maven,html,css,spring&theme=light)](https://skillicons.dev)
 
 <br>
 
