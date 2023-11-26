@@ -4,9 +4,9 @@
 
 Hello, everyone! :wave: <br>
 Welcome to my GitHub profile!<br>
-I am Priscila, a civil engineer who have decided that, from now on, will building softwares instead edifices.
+I am Priscila, a civil engineer who have decided that will building softwares instead of edifices.
 
-To achive that goal, I have been studing backends technologies, focused in java language.
+To achieve this goal, I have been studing backends technologies, focused on Java language.
 <br>
 <br>
 <br>
