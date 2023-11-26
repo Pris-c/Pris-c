@@ -19,6 +19,5 @@ To achieve this goal, I have been studing backends technologies, focused on Java
 
 ### Let's connect !
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/priscampos/)
-[![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord)](https://www.discord.com/in/pris_c/)
 [![E-mail](https://img.shields.io/badge/email-FFF?style=for-the-badge&logo=microsoft-outlook&logoColor=black)](mailto:priscilac.campos@outlook.com)
 
