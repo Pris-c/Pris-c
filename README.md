@@ -1,13 +1,14 @@
 
-## Hey there! 👋  I'm Priscila, a Java software development enthusiast !
+## Hey there! 👋  I'm Priscila,
 
-With a knack for problem-solving and a solid foundation from my civil engineering background, I'm passionate about creating effective and optimized solutions.
+I'm a software developer with a special affection for back-end development and Java.
+My work background includes civil engineering and sales consulting, both of which have given me important skills that I can now use in my new career, clear communication and problem-solving.
 
 ### My Coding Journey includes:
 - Java Programming
 - SQL Databases (PostgreSQL, MySQL)
 - Maven
-- Spring Boot Framework
+- Spring Boot
 - Unit Testing (Junit)
 - RESTful API Development
 - Git Version Control (Github)
