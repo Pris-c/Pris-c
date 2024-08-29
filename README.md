@@ -2,7 +2,8 @@
 ## Hey there! 👋  I'm Priscila,
 
 I'm a software developer with a special affection for back-end development and Java.
-My work background includes civil engineering and sales consulting, both of which have given me important skills that I can now use in my new career, clear communication and problem-solving.
+
+With a knack for problem-solving and a solid foundation from my civil engineering background, I'm passionate about creating effective and optimized solutions.
 
 ### My Coding Journey includes:
 - Java Programming
