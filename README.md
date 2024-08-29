@@ -5,6 +5,8 @@ I'm a software developer with a special affection for back-end development and J
 
 With a knack for problem-solving and a solid foundation from my civil engineering background, I'm passionate about creating effective and optimized solutions.
 
+Currently, I am studying computer science to further deepen my development skills. 
+
 ### My Coding Journey includes:
 - Java Programming
 - SQL Databases (PostgreSQL, MySQL)
