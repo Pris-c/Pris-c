@@ -1,34 +1,29 @@
-## Hey there! 👋 I'm Priscila
+🚀 About Me
 
-I'm a software developer from Minas Gerais, Brazil, currently living in Porto, Portugal.  
-With a knack for problem-solving and a strong foundation in civil engineering, I'm passionate about building efficient and optimized solutions.  
-I am currently studying Computer Science to further enhance my development skills.  
+👋 Hi! I'm Priscila, a software developer passionate about building scalable and efficient applications. I have a 6-year background in civil engineering, but my love for technology led me to a career transition into software development. Currently, I'm based in Porto, Portugal, and I am pursuing a Computer Science degree to improve my skills while continuously exploring new technologies.
 
----
+💡 What I Do
 
-### 🚀 Technologies & Tools  
+* I develop backend applications using Java & Spring Boot or C# & .NET, along with SQL.<br>
+* I build frontend applications with Angular.<br>
+* I create mobile applications using Kotlin.<br>
+* I'm always learning!<br>
 
-#### **Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+🛠️ Technologies & Tools
 
-#### **Frameworks & Libraries**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)  
+  * Languages: Java, C#, TypeScript, Javascript, Kotlin
+  * Frameworks: Spring Boot, Angular, .NET
+  * Databases: PostgreSQL, MySQL, SQL Server, Firebase Firestore
+  * Tools: Git, GitHub, JIRA, Azure DevOps, Maven, JUnit
+  * Others: HTML, CSS, Bootstrap
 
-#### **Tools & Version Control**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)  
+📌 Featured Projects
 
----
+🔹 [Aima ID](https://www.github.com/Pris-c/aima-id) – A mobile app developed to assist immigrants in Portugal with document submission, appointment scheduling, and registration, improving the user experience through a streamlined interface.<br>
+🔹 [Library Management System](https://github.com/Pris-c/library-manager/tree/docker-migration) – A library management system using Spring Boot, integrating Google Books API to allow real-time book data retrieval and storage in PostgreSQL, while ensuring security via Spring Security.<br>
+🔹 [Lumus Library](https://github.com/Pris-c/lumus-library-angular ) – Lumus Library is a front-end application designed to manage a library's book collection and user interactions. It allows any visitor to access the library collection, view users' top 5 favorites, and register and log in to the system.<br>
 
-### 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscampos/)  
-[![E-mail](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:priscilac.campos@outlook.com)
+📫 Contact
+
+📧 priscilac.campos@outlook.com <br>
+💼 [LinkedIn](https://www.linkedin.com/in/priscampos/)
